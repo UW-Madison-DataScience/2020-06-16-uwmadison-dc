@@ -346,6 +346,19 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<div id="data"> {% comment %} Start of data section. {% endcomment %}
+  <h3>Data</h3>
+
+  <p>
+  For this workshop we will be using the [ADNI Dataset](http://adni.loni.usc.edu/).
+  Upon registration you will need to read and accept the data use agreement.
+  A link to download the data will be given during the workshop as this is a sensitive dataset.
+  </p>
+
+ 
+</div> {% comment %} End of Data section. {% endcomment %}
+
+
 <div id="r"> {% comment %} Start of 'Spreadsheet' section. {% endcomment %}
   <h3>Spreadsheets</h3>
 
