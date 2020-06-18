@@ -434,7 +434,7 @@ please preview your site before committing, and make sure to run
   <p>
     SQL is a specialized programming language used with databases.  We
     use a simple database manager called
-    <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
+    <a href="https://sqlitebrowser.org/dl/">SQLite</a> in our lessons.
   </p>
 
   <div>
